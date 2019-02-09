@@ -1,0 +1,1 @@
+it was obviously a stenography problem... Went through a few different tools. ZSTEG ended up working and output the flag.

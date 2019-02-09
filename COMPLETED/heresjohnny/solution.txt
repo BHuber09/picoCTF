@@ -1,0 +1,17 @@
+Okay, so we found some important looking files on a linux computer. Maybe they can be used to get a password to the process. Connect with nc 2018shell.picoctf.com 38860. Files can be found here: passwd shadow.
+
+
+hint: try try again
+hint: rockyou.
+
+
+
+JohnTheRipper: Able to take the shadow and passwd file and can 'unshadow' it for us. Then it stores it in a format that john can read..
+
+then just run
+
+./john output_from_above.txt
+
+and it'll output the password.
+
+nc to the server username root and password to log in and flag it the output.

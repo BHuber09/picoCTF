@@ -1,0 +1,20 @@
+Using default input encoding: UTF-8
+Loaded 1 password hash (sha512crypt, crypt(3) $6$ [SHA512 256/256 AVX2 4x])
+Cost 1 (iteration count) is 5000 for all loaded hashes
+Will run 16 OpenMP threads
+Proceeding with single, rules:Single
+Press 'q' or Ctrl-C to abort, almost any other key for status
+Warning: Only 30 candidates buffered for the current salt, minimum 64
+needed for performance.
+Warning: Only 62 candidates buffered for the current salt, minimum 64
+needed for performance.
+Warning: Only 43 candidates buffered for the current salt, minimum 64
+needed for performance.
+Almost done: Processing the remaining buffered candidate passwords, if any
+Warning: Only 49 candidates buffered for the current salt, minimum 64
+needed for performance.
+Proceeding with wordlist:./password.lst, rules:Wordlist
+hellokitty       (root)
+1g 0:00:00:00 DONE 2/3 (2019-02-08 21:59) 1.204g/s 5986p/s 5986c/s 5986C/s ilovegod..Peter
+Use the "--show" option to display all of the cracked passwords reliably
+Session completed

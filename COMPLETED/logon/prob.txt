@@ -1,0 +1,5 @@
+I made a website so now you can log on to! I don't seem to have the admin password. See if you can't get to the flag. http://2018shell.picoctf.com:37861 (link)
+
+
+
+I had the correct idea. Just modify the cookie so that the admin cookie is true.. I did this via 'editthiscookie' a google chrome extension..
