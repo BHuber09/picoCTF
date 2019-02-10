@@ -1,0 +1,5 @@
+so just open the file up in wireshark..
+
+Locate the packet that is trying to log into the admin page.
+
+password is the flag.

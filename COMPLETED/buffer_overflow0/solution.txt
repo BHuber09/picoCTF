@@ -1,0 +1,15 @@
+'aaaaaaaaaaaaaaaa;sigsegv_handler(5);'
+
+
+
+Seriously my first buffer overflow.. 
+
+
+So heres what I did. Just analyzed vuln.c 
+
+what it does is it takes an argument, copies it over to a 16 character buffer. so the arguement I submitted is above.
+
+What that does it stores the 'aaaaaaaaaaaaaaaa; in the buffer.. Then in memory that sigsegv_handler(5); is executed which prints out the flag
+
+
+picoCTF{ov3rfl0ws_ar3nt_that_bad_5d8a1fae}

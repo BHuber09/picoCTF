@@ -1,0 +1,4 @@
+testdisk animals.dd
+
+
+From here just navigated and copied the deleted files out.. one of which was the flag.
