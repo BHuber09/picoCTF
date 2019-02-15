@@ -1,0 +1,8 @@
+Just went to LINK/robots.txt
+
+it gave a disallow "143ce.html"
+
+went to it and got the flag.
+
+
+picoCTF{th3_w0rld_1s_4_danger0us_pl4c3_3lli0t_143ce}

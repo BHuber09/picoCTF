@@ -1,0 +1,5 @@
+All I had to do was to add my public key from (~/.ssh/id_rsa.pub) to the shell server ~/.ssh/authorized_key
+
+Then just ssh to the shell server. ssh Spark@2018shell4.picoctf.com or something like it.
+
+picoCTF{who_n33ds_p4ssw0rds_38dj21}

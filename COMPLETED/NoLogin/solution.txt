@@ -1,0 +1,7 @@
+So it just gave a website where the login functionality was broken..
+
+Only had a button that was labeled 'flag' which said you werent admin.
+
+Just modified the cookie to have a name 'admin' and value 'true'
+
+picoCTF{n0l0g0n_n0_pr0bl3m_26b0181a}

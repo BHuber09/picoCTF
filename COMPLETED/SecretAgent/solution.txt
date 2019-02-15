@@ -1,0 +1,5 @@
+Another easy one. Button that said flag. Clicked it and said I wasn't google.
+
+Modified my user agent to be a google bot clicked the button and boom.
+
+picoCTF{s3cr3t_ag3nt_m4n_ac87e6a7}

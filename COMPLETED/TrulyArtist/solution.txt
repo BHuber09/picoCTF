@@ -1,0 +1,8 @@
+Downloaded the file.. did a basic strings and grep and got the flag...
+
+
+picoCTF{look_in_image_9f5be995}
+
+
+
+This is the last one where I am uploading/saving stupid easy ones..
